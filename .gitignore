@@ -1,0 +1,24 @@
+# Personal configuration and secrets
+config.json
+dist/config.json
+
+# Runtime logs
+*.log
+dist/voice_input.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller and build output
+build/
+dist/
+*.spec.bak
+
+# Editors and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,17 @@
+{
+  "api_key": "",
+  "resource_id": "volc.seedasr.sauc.duration",
+  "ws_url": "wss://openspeech.bytedance.com/api/v3/sauc/bigmodel_async",
+  "hotkey": "f10",
+  "auto_send": false,
+  "max_wait_seconds": null,
+  "audio": {
+    "rate": 16000,
+    "chunk_ms": 200,
+    "device_index": null,
+    "device_name": "realtek"
+  },
+  "appearance": {
+    "accent_color": "#B9C0C8"
+  }
+}
